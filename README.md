@@ -4,7 +4,8 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Tests](https://img.shields.io/badge/tests-pytest%20✓-brightgreen)](https://pytest.org/)
 
-The Final Project of the CS50P online course - Age-Gender Detector
+This is a final project for HarvardX CS50P course ([CS50's Introduction to Programming with Python](https://cs50.harvard.edu/python/2022/)).
+
 ## Features
 
 - Face detection using pre-trained OpenCV DNN model
