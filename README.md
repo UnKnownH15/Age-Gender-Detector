@@ -24,7 +24,9 @@ How It Works
 - Draws a green rectangle around the face
 - Annotates the image with predicted gender and age group
 
-##Installation
+
+
+## Installation
 It's recommended to first create a python virtual environment and then install the requirements with the following command:
 ```bash
 pip install -r requirements.txt
@@ -44,6 +46,11 @@ python project.py --camera replace_with_camera_index
 ```
 ### To exit
 Just Press **Esc** Key
+
+
+
+## Acknowledgments
+I would like to express my deepest appreciation to David Malan and the whole CS50 team for entertaining lectures and helpful problem sets.
 
  
 
